@@ -132,7 +132,7 @@
           "cachedResultName": "n8n-ai-bootcamp",
           "cachedResultUrl": "https://github.com/tobiaszwingmann-demo/n8n-ai-bootcamp"
         },
-        "filePath": "=day 1/project 1/tickets/{{ $('Edit Fields').item.json.ID }}.txt",
+        "filePath": "=day 1/project 3/tickets/{{ $('Edit Fields').item.json.ID }}.txt",
         "fileContent": "=Prio: {{ $json.output.prio }}\n\nName: {{ $('On form submission').item.json['Your Name'] }}\n\nSubmitted: {{ $('On form submission').item.json.submittedAt }}\n\nDescription:\n{{ $('On form submission').item.json['Issue description'] }}",
         "commitMessage": "new ticket"
       },
@@ -228,7 +228,7 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "cd57e4b2-4b00-43eb-84e8-a3827d32c924",
+  "versionId": "96c1a1d7-8dd4-4ea1-84c5-31e01510259d",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "26bf8eec37d4d0a7ee8a9b62eaf593a40b0ce784017882c7b978518d626df3a8"
