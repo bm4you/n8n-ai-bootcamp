@@ -1,0 +1,10 @@
+User Name: bm4you
+
+Submitted: 2026-02-10T17:36:04.770+01:00
+
+Description:
+User dropped their PC on the floor. Potential hardware damage.
+
+Status: Open
+
+Prio: Urgent
