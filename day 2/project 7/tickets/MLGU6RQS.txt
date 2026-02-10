@@ -1,0 +1,10 @@
+User Name: bm4you
+
+Submitted: 2026-02-10T17:50:02.357+01:00
+
+Description:
+User dropped their PC on the floor. Potential hardware damage. This issue is being escalated from existing ticket MLGTOTGH.
+
+Status: Open
+
+Prio: Urgent
